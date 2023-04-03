@@ -14,7 +14,7 @@ Nim : 312110618
 
 2. Tampilan About :
 
-![Tampilan About](image/2.png)
+![Tampilan About](file:///C:/xampp/htdocs/lab4web/image/1.png)
 
 3. Tampilan Contact :
 
