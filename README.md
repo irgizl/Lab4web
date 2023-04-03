@@ -15,7 +15,8 @@ Nim : 312110618
 
 2. Tampilan About :
 
-![Tampilan About](file:///C:/xampp/htdocs/lab4web/image/1.png)
+![2](https://user-images.githubusercontent.com/116077048/229538510-c6fe0558-6f17-49f1-aa93-ac3659b215a4.png)
+)
 
 3. Tampilan Contact :
 
