@@ -10,7 +10,7 @@ Nim : 312110618
 
 1. Tampilan Home :
 
-![Tampilan About](![1](https://user-images.githubusercontent.com/116077048/229537862-1494a35e-98bd-455e-8ae0-38ac51f7958e.png)
+![1](https://user-images.githubusercontent.com/116077048/229537862-1494a35e-98bd-455e-8ae0-38ac51f7958e.png)
 )
 
 2. Tampilan About :
