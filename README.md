@@ -10,7 +10,9 @@ Nim : 312110618
 
 1. Tampilan Home :
 
-! [Tampilan Home}(https://drive.google.com/file/d/143lgCcE21Qvf_qAzJnlOTCnyZx_GfbQr/view?usp=share_link)
+### **Tampilan Home**
+
+<img src="./image/img1.png" style="margin: auto; width:400px;"><br><br>
 
 2. Tampilan About :
 
