@@ -10,9 +10,7 @@ Nim : 312110618
 
 1. Tampilan Home :
 
-### **Tampilan Home**
-
-<img src="image/1.png" alt="Gambar" style="max-width:250px;">
+![Tampilan About](https://prnt.sc/p7xlevm3A8u6)
 
 2. Tampilan About :
 
