@@ -18,7 +18,7 @@ Nim : 312110618
 
 3. Tampilan Contact :
 
-![Tampilan Contact](image/3.png)
+![3](https://user-images.githubusercontent.com/116077048/229539389-297b20f9-06e4-4d0a-9991-b50c18e2b0dd.png)
 
 4. Tampilan index.php?mod=home :
 
