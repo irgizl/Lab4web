@@ -12,7 +12,7 @@ Nim : 312110618
 
 ### **Tampilan Home**
 
-<img src="./image/img1.png" style="margin: auto; width:400px;"><br><br>
+<img src="./image/1.png" style="margin: auto; width:400px;"><br><br>
 
 2. Tampilan About :
 
