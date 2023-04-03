@@ -10,7 +10,7 @@ Nim : 312110618
 
 1. Tampilan Home :
 
-![Tampilan About](https://prnt.sc/p7xlevm3A8u6.png)
+![Tampilan About](C:\xampp\htdocs\lab4web\image\1.png)
 
 2. Tampilan About :
 
