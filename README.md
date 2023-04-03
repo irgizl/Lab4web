@@ -11,12 +11,10 @@ Nim : 312110618
 1. Tampilan Home :
 
 ![1](https://user-images.githubusercontent.com/116077048/229537862-1494a35e-98bd-455e-8ae0-38ac51f7958e.png)
-)
 
 2. Tampilan About :
 
 ![2](https://user-images.githubusercontent.com/116077048/229538510-c6fe0558-6f17-49f1-aa93-ac3659b215a4.png)
-)
 
 3. Tampilan Contact :
 
