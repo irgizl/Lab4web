@@ -36,11 +36,11 @@ Nim : 312110618
 
 4. Tampilan tambah.php :
 
-![tambah](6.png)
+![6](https://user-images.githubusercontent.com/116077048/229540613-be94dee5-3658-4164-b422-ece261faa9f8.png)
 
 5. Tampilan ubah mengambil nomer id :
 
-![ubah](7.png)
+![7](https://user-images.githubusercontent.com/116077048/229540637-c19d73da-6fe2-4301-b297-de1e791b044f.png)
 
 Terima Kasih
 # Lab4web
