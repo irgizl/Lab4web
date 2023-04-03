@@ -27,7 +27,8 @@ Nim : 312110618
 
 1. Tampilan file lab3_php_tugas :
 
-![tugas](4.png)
+![4](https://user-images.githubusercontent.com/116077048/229539801-e94ea3e7-321e-4835-a3cc-ddada5e9202a.png)
+
 
 3. Tampilan about.php :
 
