@@ -10,15 +10,15 @@ Nim : 312110618
 
 1. Tampilan Home :
 
-![Tampilan Home](1.png)
+![Tampilan Home](image/1.png)
 
 2. Tampilan About :
 
-![Tampilan About](2.png)
+![Tampilan About](image/2.png)
 
 3. Tampilan Contact :
 
-![Tampilan Contact](3.png)
+![Tampilan Contact](image/3.png)
 
 4. Tampilan index.php?mod=home :
 
