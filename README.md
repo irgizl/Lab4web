@@ -32,7 +32,8 @@ Nim : 312110618
 
 3. Tampilan about.php :
 
-![tentang](5.png)
+![5](https://user-images.githubusercontent.com/116077048/229540188-585ec36a-1581-4ae6-adc2-ea21f034ac73.png)
+
 4. Tampilan tambah.php :
 
 ![tambah](6.png)
